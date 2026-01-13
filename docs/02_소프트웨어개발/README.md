@@ -1384,7 +1384,8 @@ Postorder
 ❷ 1은 2EB이므로 2EB3A가 된다.
 ❸ 2는 HID이므로 HIDEB3A가 된다.
 ❹ 3은 FGC이므로 HIDEB FGCA가 된다.
-• 방문 순서  : HIDEBFGCA
+• 방문 순서  : HIDEBFGCA
+
 " #
 • 전위 표기법(PreFix)  : 연산자 → Left → Right, +AB
 • 중위 표기법(InFix)  : Left → 연산자 → Right, A+B
